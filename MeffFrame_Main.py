@@ -73,4 +73,6 @@ if __name__ == "__main__":
     app = wx.PySimpleApp()
     frame = MeffFrame_Main(None)
     frame.Show(True)
+
     app.MainLoop()
+
